@@ -89,8 +89,9 @@
 ### ⏱ Racha de actividad
 
 <div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yasbel20&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=yasbel20&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" alt="GitHub Streak Stats"/>
 </div>
+
  
 ### 📈 Gráfico de actividad
 
@@ -105,8 +106,9 @@
 ### 🏆 Trofeos de perfil
 
 <div align="center">
-[![trofeo](https://github-profile-trophy.vercel.app/?username=yasbel20&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=yasbel20&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Profile Trophies"/>
 </div>
+
 
 ---
 
